@@ -1,0 +1,71 @@
+{
+  "version": "V0.8",
+  "created_at": "2026-11-09T04:54:32.050474+09:00",
+  "source_iso_sha256": "9bd4b44960f74c672d270305b86b68e4c2d59613ad5c775872961d61ee36108c",
+  "source_unchanged_after_patching": true,
+  "compiled_exe_roundtrip": {
+    "version": "V0.8",
+    "source_sha256": "9bd4b44960f74c672d270305b86b68e4c2d59613ad5c775872961d61ee36108c",
+    "target_sha256": "cf9520d7a245a637af0b3ee15234ba9a9c40930bddf937caded893568251599b",
+    "size": 1514471424,
+    "files": 1928,
+    "modified_files": 56,
+    "original_modified": false,
+    "all_file_bytes_verified": true
+  },
+  "gui": {
+    "version": "V0.8",
+    "title_image": [
+      320,
+      256
+    ],
+    "gui_widgets_visible": true,
+    "patch_button_inside_window": true,
+    "client_size": [
+      820,
+      760
+    ]
+  },
+  "patcher_guard_tests": {
+    "passed": 9,
+    "failed": 0,
+    "cases": [
+      "bundle inventory and checksums",
+      "modified bundle rejected",
+      "modified decoder rejected",
+      "existing output preserved",
+      "same source/output rejected",
+      "wrong-size source rejected",
+      "overlapping metadata rejected",
+      "same-size wrong source rejected",
+      "failed final hash removes temporary output"
+    ]
+  },
+  "image_text": {
+    "manifest_fields": 670,
+    "nonempty_fields": 642,
+    "glyph_banks": 86,
+    "common_font_fields": 631,
+    "glyph_occurrences": 1921,
+    "native_sampler_fields": 184
+  },
+  "native_layout": {
+    "captions": 31,
+    "caption_labels": 59,
+    "button_collisions": 0,
+    "relation_nodes": 32,
+    "relation_language_layouts": 6,
+    "map_layouts": 12,
+    "option_samplers": 62
+  },
+  "source_and_delivered_files_checked": 1928,
+  "message_layout_errors": 0,
+  "stale_subtitle_sidecars": 0,
+  "subtitle_captions_compiled": 336,
+  "android_gpu_run_verified": false,
+  "whole_game_playthrough_verified": false,
+  "audio_sync_verified": false,
+  "japanese_direct_listening_verified": false,
+  "screenshot_provenance": "Current decoded game resources and native-coordinate software composites; not device screenshots",
+  "original_game_files_included": false
+}

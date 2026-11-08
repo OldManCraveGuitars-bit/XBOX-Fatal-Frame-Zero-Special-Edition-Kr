@@ -1,0 +1,37 @@
+{
+  "version": "V0.8",
+  "download": "XBOX-Fatal-Frame-Zero-Special-Edition-Kr-V0.8-Windows-Patcher.zip",
+  "size": 12974506,
+  "sha256": "44ed841e42b68c17dc87e609c6a8a8b6e750a2cb64cad0c148f1442ab7e640ed",
+  "exe": {
+    "name": "XBOX-Fatal-Frame-Zero-Special-Edition-Kr-V0.8-Patcher.exe",
+    "size": 13190988,
+    "sha256": "099fc1c96bf6f031ec430717e3c62c749091474238d2abfa3f44d0bb43d00b70"
+  },
+  "source": {
+    "name": "Fatal Frame - Zero Special Edition (Japan).iso",
+    "size": 1514930176,
+    "sha256": "9bd4b44960f74c672d270305b86b68e4c2d59613ad5c775872961d61ee36108c"
+  },
+  "target": {
+    "name": "Fatal-Frame-Zero-Special-Edition-Kr-V0.8.xiso.iso",
+    "size": 1514471424,
+    "sha256": "cf9520d7a245a637af0b3ee15234ba9a9c40930bddf937caded893568251599b"
+  },
+  "original_game_files_included": false,
+  "package_entries": [
+    "XBOX-Fatal-Frame-Zero-Special-Edition-Kr-V0.8-Patcher.exe",
+    "licenses/BLAKE3-Apache-2.0.txt",
+    "licenses/PyInstaller-COPYING.txt",
+    "licenses/Python-LICENSE.txt",
+    "licenses/tcl8.6-license.terms",
+    "licenses/THIRD-PARTY.md",
+    "licenses/tk8.6-license.terms",
+    "licenses/xdelta3-Apache-2.0.txt",
+    "licenses/xdelta3-README.md",
+    "licenses/xz-0BSD.txt",
+    "licenses/xz-COPYING.txt",
+    "사용법.txt",
+    "SHA256SUMS.txt"
+  ]
+}

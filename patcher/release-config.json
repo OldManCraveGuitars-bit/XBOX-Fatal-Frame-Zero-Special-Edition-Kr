@@ -1,0 +1,18 @@
+{
+  "version": "V0.8",
+  "game": "Fatal Frame - Zero Special Edition (Japan)",
+  "bundle": "Fatal-Frame-Zero-Special-Edition-Kr-V0.8.ffpatch",
+  "bundle_sha256": "97b504a8ea205069cb14d8d5abba04aaa4013517c5ca4bf87296fdec844340a2",
+  "xdelta_sha256": "2081fb24a7b8a89d068b58e7d9353647d5fc1512a68bb6a37f71fc60ca84d943",
+  "source": {
+    "name": "Fatal Frame - Zero Special Edition (Japan).iso",
+    "size": 1514930176,
+    "sha256": "9bd4b44960f74c672d270305b86b68e4c2d59613ad5c775872961d61ee36108c"
+  },
+  "target": {
+    "name": "Fatal-Frame-Zero-Special-Edition-Kr-V0.8.xiso.iso",
+    "size": 1514471424,
+    "sha256": "cf9520d7a245a637af0b3ee15234ba9a9c40930bddf937caded893568251599b"
+  },
+  "source_build": "0.3.0-development"
+}
